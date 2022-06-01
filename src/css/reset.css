@@ -1,0 +1,26 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body{
+  color: #000;
+  font-family: 'Lato', sans-serif;
+}
+a{
+  color: #000;
+  text-decoration: none;
+}
+li{
+  list-style: none;
+}
+::-webkit-scrollbar{
+  width: 10px;
+  border-radius: 50px;
+  background-color: #14ad14a1;
+}
+::-webkit-scrollbar-thumb{
+  width: 10px;
+  border-radius: 50px;
+  background-color: #aae9aaa1;
+}
