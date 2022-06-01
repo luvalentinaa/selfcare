@@ -4,9 +4,9 @@
 <h1 align="center" style="color:green">
 selfcare</h1>
  
-   <img src="design/desktop.png" width="300" height="600">
+   <img src="design/desktop.png" width="380" height="600">
    
-   <img src="design/mobile.png" width="200" height="800">
+   <img src="design/mobile.png" width="250" height="800">
 
   
 
